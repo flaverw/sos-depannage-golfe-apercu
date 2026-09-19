@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 190" width="680" height="190" role="img" aria-label="SOS Dépannage Golfe">
+  <!-- Badge urgence -->
+  <g>
+    <rect x="8" y="25" width="140" height="140" rx="30" fill="#e0281c"/>
+    <text x="78" y="104" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="800" font-size="52" fill="#fff" letter-spacing="1">SOS</text>
+    <text x="78" y="134" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="19" fill="#fff" letter-spacing="3">24/7</text>
+  </g>
+  <!-- Wordmark -->
+  <g>
+    <text x="176" y="98" font-family="'Arial Black', Arial, sans-serif" font-weight="800" font-size="58" fill="#141008" letter-spacing="-1.5">Dépannage</text>
+    <text x="179" y="138" font-family="Arial, Helvetica, sans-serif" font-weight="600" font-size="24" fill="#6c655a" letter-spacing="8">GOLFE DE ST-TROPEZ</text>
+  </g>
+  <!-- point pulse -->
+  <circle cx="663" cy="42" r="7" fill="#e0281c"/>
+</svg>
