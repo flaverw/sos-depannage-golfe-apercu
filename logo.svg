@@ -1,15 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 190" width="680" height="190" role="img" aria-label="SOS Dépannage Golfe">
-  <!-- Badge urgence -->
-  <g>
-    <rect x="8" y="25" width="140" height="140" rx="30" fill="#e0281c"/>
-    <text x="78" y="104" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="800" font-size="52" fill="#fff" letter-spacing="1">SOS</text>
-    <text x="78" y="134" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="19" fill="#fff" letter-spacing="3">24/7</text>
-  </g>
-  <!-- Wordmark -->
-  <g>
-    <text x="176" y="98" font-family="'Arial Black', Arial, sans-serif" font-weight="800" font-size="58" fill="#141008" letter-spacing="-1.5">Dépannage</text>
-    <text x="179" y="138" font-family="Arial, Helvetica, sans-serif" font-weight="600" font-size="24" fill="#6c655a" letter-spacing="8">GOLFE DE ST-TROPEZ</text>
-  </g>
-  <!-- point pulse -->
-  <circle cx="663" cy="42" r="7" fill="#e0281c"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120" fill="none" role="img" aria-label="Dépannage du Golfe">
+  <circle cx="60" cy="60" r="56" stroke="#c6a15f" stroke-width="1.6"/>
+  <circle cx="60" cy="60" r="49.5" stroke="#c6a15f" stroke-width="0.9" opacity=".5"/>
+  <circle cx="60" cy="47" r="7.5" fill="#c6a15f"/>
+  <path d="M39 73 Q49.5 68 60 73 T81 73" stroke="#c6a15f" stroke-width="1.7" stroke-linecap="round"/>
+  <path d="M44 81 Q53 77.5 62 81 T80 81" stroke="#c6a15f" stroke-width="1.2" opacity=".55" stroke-linecap="round"/>
+  <line x1="58" y1="60" x2="62" y2="60" stroke="#c6a15f" stroke-width="1.9" stroke-linecap="round"/>
+  <line x1="55.5" y1="65" x2="64.5" y2="65" stroke="#c6a15f" stroke-width="1.9" stroke-linecap="round" opacity=".82"/>
+  <line x1="53" y1="70" x2="67" y2="70" stroke="#c6a15f" stroke-width="1.9" stroke-linecap="round" opacity=".6"/>
 </svg>
